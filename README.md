@@ -15,6 +15,7 @@
 ## What I do
 - Game dev + modding
 - Small experiments, tools, and websites
+- I like contributing to repos too!!
 
 ## Languages/Tech I use (still learning)
 <p>
