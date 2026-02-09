@@ -1,35 +1,8 @@
 <div align="center">
-
-  <a href="https://immalloy.nichesite.org/" style="text-decoration:none;">
-    <span style="display:inline-block; padding:10px;">
-      <img src="https://raw.githubusercontent.com/immalloy/immalloy/main/personalsite.png"
-           height="150" alt="" style="display:block;" />
-    </span>
-  </a>
-
-  <a href="https://oyachigame.nichesite.org/" style="text-decoration:none;">
-    <span style="display:inline-block; padding:10px;">
-      <img src="https://raw.githubusercontent.com/immalloy/immalloy/main/yourlittleoyachi.png"
-           height="150" alt="" style="display:block;" />
-    </span>
-  </a>
-
-  <br/>
-
-  <a href="https://alepsych.gamer.gd/" style="text-decoration:none;">
-    <span style="display:inline-block; padding:10px;">
-      <img src="https://raw.githubusercontent.com/immalloy/immalloy/main/alepsych.png"
-           height="150" alt="" style="display:block;" />
-    </span>
-  </a>
-
-  <a href="https://funkincommons.page.gd/" style="text-decoration:none;">
-    <span style="display:inline-block; padding:10px;">
-      <img src="https://raw.githubusercontent.com/immalloy/immalloy/main/funkincommons.png"
-           height="165" alt="" style="display:block;" />
-    </span>
-  </a>
-
+  <a href="https://immalloy.nichesite.org/"><img src="https://raw.githubusercontent.com/immalloy/immalloy/main/personalsite.png" height="150" alt="ImMalloy"></a>&nbsp;&nbsp;
+  <a href="https://oyachigame.nichesite.org/"><img src="https://raw.githubusercontent.com/immalloy/immalloy/main/yourlittleoyachi.png" height="150" alt="Your Little Oyachi"></a>
+  <a href="https://alepsych.gamer.gd/"><img src="https://raw.githubusercontent.com/immalloy/immalloy/main/alepsych.png" height="150" alt="ALE Psych"></a>&nbsp;&nbsp;
+  <a href="https://funkincommons.page.gd/"><img src="https://raw.githubusercontent.com/immalloy/immalloy/main/funkincommons.png" height="165" alt="Funkin Commons"></a>
 </div>
 
 <h1 align="center">ImMalloy</h1>
@@ -46,14 +19,13 @@
   <a href="https://x.com/immalloy" title="Twitter"><img src="https://www.svgrepo.com/show/416494/connect-media-networking.svg" width="28" alt="Twitter" /></a>
 </p>
 
-
 ---
 
 ## What I do
 - Game dev + modding
 - Small experiments, tools, and websites
 
-## 🧠 Tech I use (still learning up)
+## Languages/Tech I use (still learning)
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" />&nbsp;HTML&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" />&nbsp;CSS&nbsp;&nbsp;
