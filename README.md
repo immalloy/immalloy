@@ -31,7 +31,7 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=immalloy&cc=000000&tc=ffffff&ic=ffffff&bc=000000" alt="GitHub Stats" />
 </p>
 
-## some cool sites i made!
+## some cool projects i work on!
 <div align="center">
   <a href="https://immalloy.nichesite.org/"><img src="https://raw.githubusercontent.com/immalloy/immalloy/main/personalsite.png" height="100" alt="ImMalloy"></a>&nbsp;&nbsp;
   <a href="https://oyachigame.nichesite.org/"><img src="https://raw.githubusercontent.com/immalloy/immalloy/main/yourlittleoyachi.png" height="100" alt="Your Little Oyachi"></a>
