@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/immalloy.png" width="200" alt="ImMalloy Profile Picture" style="border-radius:50%;">
-  <p><strong>Hey, Im Malloy!</strong></p>
+
+# Hey, Im Malloy!
+
 </div>
 
 <p align="center">
