@@ -41,18 +41,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@ImMalloy" title="YouTube">
-    <img src="https://www.svgrepo.com/show/416500/youtube-circle-logo.svg" width="28" />
-  </a>
-  &nbsp;
-  <a href="YOUR_TIKTOK_LINK" title="TikTok">
-    <img src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" width="24" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/immalloy" title="Twitter">
-    <img src="https://www.svgrepo.com/show/416494/connect-media-networking.svg" width="28" />
-  </a>
+  <a href="https://www.youtube.com/@ImMalloy" title="YouTube"><img src="https://www.svgrepo.com/show/416500/youtube-circle-logo.svg" width="28" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@_ma.lloy_" title="TikTok"><img src="https://www.svgrepo.com/show/303260/tiktok-logo-logo.svg" width="24" alt="TikTok" /></a>
+  <a href="https://x.com/immalloy" title="Twitter"><img src="https://www.svgrepo.com/show/416494/connect-media-networking.svg" width="28" alt="Twitter" /></a>
 </p>
+
 
 ---
 
