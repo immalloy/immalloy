@@ -1,30 +1,45 @@
 <div align="center">
 
-# Hey, I'm Malloy
+  <h1>Malloy.</h1>
 
-<img src="https://images.weserv.nl/?url=github.com/immalloy.png&w=180&h=180&fit=cover&mask=circle" width="140" alt="Malloy profile picture" />
+  <p>
+    <strong>Coder, artist, voice actor, singer, and certified awesomesauce.</strong>
+  </p>
 
-<br>
+  <p>
+    I make websites, tools, music, art, voice stuff, modding projects,
+    and whatever random idea sounds fun.
+  </p>
 
-### Coder, artist, voice actor, singer, and certified awesomesauce.
+  <p>
+    <a href="https://malloy.vercel.app/">
+      <img
+        src="https://img.shields.io/badge/Visit%20my%20website-malloy.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white"
+        alt="Visit my website"
+      />
+    </a>
+  </p>
 
-I make websites, tools, music, art, voice stuff, modding projects, and whatever random idea sounds fun.
+  <br>
 
-<br>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,electron,supabase,postgres,haxe,lua,py,vscode&perline=7"
+      alt="HTML, CSS, JavaScript, TypeScript, PHP, React, Next.js, Electron, Supabase, PostgreSQL, Haxe, Lua, Python, and VS Code"
+    />
+  </p>
 
-<a href="https://malloy.vercel.app/">
-  <b>Visit my website</b>
-</a>
+  <br>
 
-<br><br>
+  <p>
+    <a href="https://immalloy.github.io/gamebanana-today/"><img src="https://raw.githubusercontent.com/immalloy/gamebanana-today/main/public/brand/gamebanana-daily-icon.png" width="48" alt="GameBanana Today" /></a>&nbsp;
+    <a href="https://github.com/immalloy/GamebananaAPI-Docs"><img src="https://raw.githubusercontent.com/immalloy/GamebananaAPI-Docs/main/assets/icons/gaybanana-100.png" width="48" alt="GameBanana API Docs" /></a>&nbsp;
+    <a href="https://malloy.vercel.app/games/oyachi"><img src="https://raw.githubusercontent.com/Crew-Awesome/Your-Little-Oyachi-1/main/assets/site/favicon-big.png" width="48" alt="Your Little Oyachi" /></a>&nbsp;
+    <a href="https://ginyo.space/celstomp/"><img src="https://raw.githubusercontent.com/Celstomp/celstomp/main/celstomp/icons/favicon.ico" width="48" alt="Celstomp" /></a>&nbsp;
+    <a href="https://github.com/Crew-Awesome/FunkHub"><img src="https://raw.githubusercontent.com/Crew-Awesome/FunkHub/main/assets/art/logo/funkhub-logo-256.png" width="48" alt="FunkHub" /></a>&nbsp;
+    <a href="https://github.com/ALE-Psych-Crew/ALE-Psych"><img src="https://github.com/ALE-Psych-Crew.png" width="48" alt="ALE Psych" /></a>
+  </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" />&nbsp;HTML&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" />&nbsp;CSS&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" />&nbsp;JavaScript&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="24" />&nbsp;HaxeFlixel&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="24" />&nbsp;Lua&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" />&nbsp;Python
-</p>
+  <br>
 
 </div>
