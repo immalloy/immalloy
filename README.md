@@ -32,10 +32,8 @@
   <br>
 
   <p>
-    <a href="https://github.com/immalloy/GamebananaAPI-Docs"><img src="https://raw.githubusercontent.com/immalloy/GamebananaAPI-Docs/main/assets/icons/gaybanana-100.png" width="48" alt="GameBanana API Docs" /></a>&nbsp;
     <a href="https://malloy.vercel.app/games/oyachi"><img src="https://raw.githubusercontent.com/Crew-Awesome/Your-Little-Oyachi-1/main/assets/site/favicon-big.png" width="48" alt="Your Little Oyachi" /></a>&nbsp;
     <a href="https://ginyo.space/celstomp/"><img src="https://raw.githubusercontent.com/Celstomp/celstomp/main/celstomp/icons/favicon.ico" width="48" alt="Celstomp" /></a>&nbsp;
-    <a href="https://github.com/ALE-Psych-Crew/ALE-Psych"><img src="https://github.com/ALE-Psych-Crew.png" width="48" alt="ALE Psych" /></a>
   </p>
 
   <br>
