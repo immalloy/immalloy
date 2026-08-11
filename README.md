@@ -20,22 +20,7 @@
     </a>
   </p>
 
-  <br>
-
-  <p>
-    <img
-      src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,electron,supabase,postgres,haxe,lua,py,vscode&perline=7"
-      alt="HTML, CSS, JavaScript, TypeScript, PHP, React, Next.js, Electron, Supabase, PostgreSQL, Haxe, Lua, Python, and VS Code"
-    />
-  </p>
-
-  <br>
-
-  <p>
-    <a href="https://malloy.vercel.app/games/oyachi"><img src="https://raw.githubusercontent.com/Crew-Awesome/Your-Little-Oyachi-1/main/assets/site/favicon-big.png" width="48" alt="Your Little Oyachi" /></a>&nbsp;
-    <a href="https://ginyo.space/celstomp/"><img src="https://raw.githubusercontent.com/Celstomp/celstomp/main/celstomp/icons/favicon.ico" width="48" alt="Celstomp" /></a>&nbsp;
-  </p>
-
-  <br>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=immalloy&theme=radical&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=immalloy&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="280" alt="activity graph" />
